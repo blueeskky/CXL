@@ -1,5 +1,5 @@
-#CXL
+# CXL
 CXL is a programming language that is a alias of C like C++
 
-#Features
+# Features
 No features yet
